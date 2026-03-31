@@ -1,6 +1,7 @@
-## Move Aerospace to Pluto
-- Create TLD approach
-  * Use Draw.io or whiteboard to generate site-index.json before moving forward
+## Pipeline Deployment Strategies
+- [Plan Approach](https://github.com/ophelialabs/a/blob/main/pages/home.html)
+   * Use Draw.io or whiteboard to generate site-index.json before moving forward
+-  Move Aerospace to Pluto
 - [Learning Platform](https://github.com/ophelialabs/Learning_Platform/tree/main/LP_app/Components/Pages) (Tools you'll master)
   * .NET (nuget, Quantinuum, Blazor)
   * DON'T rebuild docs, utilize mslearn, rhel docs, *Rohde&S* (individual), and related
