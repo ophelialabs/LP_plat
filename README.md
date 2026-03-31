@@ -1,6 +1,6 @@
 Move Aerospace to Pluto
 - Create TLD approach
-- [Learning Platform](https://github.com/ophelialabs/Learning_Platform/tree/main/LP_app/Components/Pages)
+- [Learning Platform](https://github.com/ophelialabs/Learning_Platform/tree/main/LP_app/Components/Pages) (Tools you'll master)
 
 ---
 
@@ -9,6 +9,13 @@ Move Aerospace to Pluto
   * [b](https://ophelialabs.github.io/a/pages/legacy/wiki-old/Globe/Nasa/index.html)
   * [c](https://ophelialabs.github.io/a/pages/legacy/wiki-old/Globe/Nasa/pages/furtherreading.html)
   * [d](https://github.com/ophelialabs/a/blob/main/pages/legacy/wiki-old/Globe/Nasa/pages/index.md)
+
+---
+
+- Add DB
+  * Mat Pro
+  * Rebase 
+  * etc
 
 ---
 
