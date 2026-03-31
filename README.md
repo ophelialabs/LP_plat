@@ -3,6 +3,7 @@ Move Aerospace to Pluto
   * Use Draw.io or whiteboard to generate site-index.json before moving forward
 - [Learning Platform](https://github.com/ophelialabs/Learning_Platform/tree/main/LP_app/Components/Pages) (Tools you'll master)
   * .NET (nuget, Quantinuum)
+  * DON'T rebuild docs, utilize mslearn and related
 ---
 
 - Use Tools from
