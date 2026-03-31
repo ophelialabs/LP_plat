@@ -1,4 +1,4 @@
-Move Aerospace to Pluto
+## Move Aerospace to Pluto
 - Create TLD approach
   * Use Draw.io or whiteboard to generate site-index.json before moving forward
 - [Learning Platform](https://github.com/ophelialabs/Learning_Platform/tree/main/LP_app/Components/Pages) (Tools you'll master)
@@ -6,7 +6,7 @@ Move Aerospace to Pluto
   * DON'T rebuild docs, utilize mslearn, rhel docs, *Rohde&S* (individual), and related
 ---
 
-- Use Tools from
+## Use Tools from
   * [a](https://github.com/ophelialabs/a)
   * [b](https://ophelialabs.github.io/a/pages/legacy/wiki-old/Globe/Nasa/index.html)
   * [c](https://ophelialabs.github.io/a/pages/legacy/wiki-old/Globe/Nasa/pages/furtherreading.html)
@@ -14,10 +14,11 @@ Move Aerospace to Pluto
 
 ---
 
-- Add DB
-  * Mat Pro
-  * Rebase 
-  * etc
+## Add DB
+- Mat Pro
+  * Check what journals are not included in MPContrib
+- Rebase 
+- etc
 
 ---
 
