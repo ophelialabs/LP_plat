@@ -16,7 +16,7 @@
 
 ## Add DB
 - Mat Pro
-  * Check what journals are not included in MPContrib
+  * Check what "official" journals are not included in MPContrib
 - Rebase 
 - etc
 
